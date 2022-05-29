@@ -13,7 +13,7 @@ Instructions for use:
 
 wiring guide:
 
-1)pin D2 - SCH
+1)pin D2 - SCH \n
 2)pin D3 - DT
 3)pin G  - GND
 4)pin 3v - VCC
